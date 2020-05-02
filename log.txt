@@ -14,3 +14,4 @@
 0858. ♻️ chore: clean up unused files
 0369. 🎨 style: standardize quote style
 0654. ✨ feat: create admin dashboard
+0084. 🐛 fix: handle 500 error in quiz API
