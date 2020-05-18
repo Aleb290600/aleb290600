@@ -18,3 +18,4 @@
 0387. ✨ feat: enable dark mode toggle
 0027. 📚 docs: clarify environment setup
 0273. 🚀 perf: reduce image load time
+0518. ✨ feat: support email verification
