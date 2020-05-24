@@ -20,3 +20,4 @@
 0273. 🚀 perf: reduce image load time
 0518. ✨ feat: support email verification
 0623. 🎨 style: standardize quote style
+0463. 🚀 perf: reduce image load time
