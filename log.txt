@@ -35,3 +35,4 @@
 0362. 📚 docs: add API usage examples
 0355. 🚀 perf: optimize database query for quiz results
 0324. 📚 docs: document token refresh logic
+0436. ✅ test: add integration test for /submit endpoint
