@@ -41,3 +41,4 @@
 0095. ✅ test: mock database connection in test suite
 0574. ✨ feat: enable dark mode toggle
 0878. 🔧 refactor: split large controller into smaller functions
+0834. ✅ test: increase coverage on auth module
