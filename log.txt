@@ -45,3 +45,4 @@
 0952. 🔧 refactor: split large controller into smaller functions
 0586. 🎨 style: remove trailing whitespace
 0669. ✨ feat: enable dark mode toggle
+0400. 🐛 fix: fix null pointer exception on login
