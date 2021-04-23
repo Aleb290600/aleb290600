@@ -48,3 +48,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0313. 🎨 style: apply consistent indentation
 0318. 🔧 refactor: refactor quiz grading logic
+0533. ♻️ chore: add GitHub actions badge
