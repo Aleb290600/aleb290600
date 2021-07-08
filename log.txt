@@ -54,3 +54,4 @@
 0160. ♻️ chore: bump dependencies
 0144. ✅ test: increase coverage on auth module
 0945. ♻️ chore: add GitHub actions badge
+0054. ♻️ chore: update .gitignore
