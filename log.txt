@@ -80,3 +80,4 @@
 0597. 🚀 perf: cache repeated calculations
 0735. ♻️ chore: add GitHub actions badge
 0513. ♻️ chore: bump dependencies
+0670. ✨ feat: add export to CSV option
