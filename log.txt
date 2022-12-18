@@ -85,3 +85,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0705. 🔧 refactor: refactor quiz grading logic
 0426. ✅ test: add integration test for /submit endpoint
+0788. 📚 docs: add API usage examples
