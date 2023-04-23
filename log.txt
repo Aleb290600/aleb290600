@@ -100,3 +100,4 @@
 0336. ✨ feat: add export to CSV option
 0430. 🐛 fix: fix null pointer exception on login
 0646. ✅ test: test user registration edge cases
+0461. ✨ feat: add user authentication
