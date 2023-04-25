@@ -101,3 +101,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0646. ✅ test: test user registration edge cases
 0461. ✨ feat: add user authentication
+0367. 🐛 fix: fix null pointer exception on login
