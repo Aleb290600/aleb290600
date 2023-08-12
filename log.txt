@@ -109,3 +109,4 @@
 0060. ♻️ chore: clean up unused files
 0790. 📚 docs: write FAQ section
 0232. 🎨 style: apply consistent indentation
+0028. 🎨 style: standardize quote style
