@@ -111,3 +111,4 @@
 0232. 🎨 style: apply consistent indentation
 0028. 🎨 style: standardize quote style
 0148. 🔧 refactor: organize models into subfolders
+0995. ✅ test: mock database connection in test suite
