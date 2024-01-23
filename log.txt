@@ -122,3 +122,4 @@
 0776. ✅ test: add integration test for /submit endpoint
 0167. 🚀 perf: reduce image load time
 0590. 🐛 fix: fix null pointer exception on login
+0194. 🎨 style: standardize quote style
