@@ -125,3 +125,4 @@
 0194. 🎨 style: standardize quote style
 0061. ✨ feat: create admin dashboard
 0272. 🔧 refactor: remove redundant code blocks
+0512. 🚀 perf: reduce image load time
