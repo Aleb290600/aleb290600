@@ -131,3 +131,4 @@
 0970. ♻️ chore: update .gitignore
 0799. ♻️ chore: clean up unused files
 0261. 🔧 refactor: refactor quiz grading logic
+0454. ♻️ chore: bump dependencies
