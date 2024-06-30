@@ -141,3 +141,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0651. ✨ feat: enable dark mode toggle
 0215. 🎨 style: reformat files with black
+0207. 🐛 fix: prevent crash on empty input
