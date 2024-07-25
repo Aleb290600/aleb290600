@@ -143,3 +143,4 @@
 0215. 🎨 style: reformat files with black
 0207. 🐛 fix: prevent crash on empty input
 0077. ♻️ chore: rename env.example
+0018. 🔧 refactor: organize models into subfolders
