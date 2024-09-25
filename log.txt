@@ -153,3 +153,4 @@
 0626. 🎨 style: standardize quote style
 0378. 🐛 fix: prevent crash on empty input
 0288. 🔧 refactor: refactor quiz grading logic
+0902. ✨ feat: enable dark mode toggle
