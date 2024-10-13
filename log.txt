@@ -154,3 +154,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0288. 🔧 refactor: refactor quiz grading logic
 0902. ✨ feat: enable dark mode toggle
+0880. 🐛 fix: fix broken CSS in mobile view
