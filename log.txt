@@ -161,3 +161,4 @@
 0709. ♻️ chore: bump dependencies
 0849. 🐛 fix: correct typo in registration form
 0076. 🎨 style: reformat files with black
+0699. 🎨 style: standardize quote style
