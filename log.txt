@@ -162,3 +162,4 @@
 0849. 🐛 fix: correct typo in registration form
 0076. 🎨 style: reformat files with black
 0699. 🎨 style: standardize quote style
+0497. 🔧 refactor: refactor quiz grading logic
