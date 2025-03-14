@@ -169,3 +169,4 @@
 0570. 🎨 style: apply consistent indentation
 0223. 🔧 refactor: remove redundant code blocks
 0016. 🎨 style: apply consistent indentation
+0086. 🐛 fix: correct typo in registration form
