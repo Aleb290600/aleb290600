@@ -171,3 +171,4 @@
 0016. 🎨 style: apply consistent indentation
 0086. 🐛 fix: correct typo in registration form
 0188. 🎨 style: apply consistent indentation
+0557. 🔧 refactor: clean up auth middleware
