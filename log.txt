@@ -177,3 +177,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0516. ✅ test: add unit test for quiz service
 0277. 🎨 style: standardize quote style
+0989. 📚 docs: write FAQ section
