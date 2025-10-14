@@ -188,3 +188,4 @@
 0048. 📚 docs: update README with setup steps
 0985. 📚 docs: document token refresh logic
 0108. 🎨 style: remove trailing whitespace
+0092. 🚀 perf: reduce image load time
